@@ -2,7 +2,7 @@
 layout: about   
 title: about
 permalink: /
-subtitle: Associate Professor of Management Science, Chapman University.
+subtitle: Associate Professor of Management Science, Chapman University. 
 Digital Fellow, Stanford Digital Economy Lab.                                 
 profile:
     align: right                                                                
