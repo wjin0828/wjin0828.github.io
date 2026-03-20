@@ -2,20 +2,17 @@
   layout: about   
   title: about
   permalink: /
-  subtitle: Associate Professor of Management Science, <a                       
-  href='https://www.chapman.edu/'>Chapman University</a>. Digital Fellow, <a    
-  href='https://digitaleconomy.stanford.edu/'>Stanford Digital Economy Lab</a>. 
-                                                                                
-  profile:        
-    align: right
+  subtitle: Associate Professor of Management Science, Chapman University.
+  Digital Fellow, Stanford Digital Economy Lab.                                 
+  profile:
+    align: right                                                                
     image: prof_pic.jpg
     image_circular: false
-
   news: false
   selected_papers: true
   social: true
   ---
-                                                                                
+
   I am an Associate Professor of Management Science at the George L. Argyros    
   College of Business and Economics, Chapman University, and a Digital Fellow at
    the Stanford Digital Economy Lab (SDEL).                                     
